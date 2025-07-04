@@ -3,12 +3,12 @@ entries:
   amazon-app:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-07-04T13:23:15.734265141+05:30"
+    created: "2025-07-04T13:34:35.273027963+05:30"
     description: A Helm chart for Kubernetes
-    digest: f59bd4854e9fe7bc801e6e3d0c335a75b052e8de0881f7e10e9a0c59924be064
+    digest: 8ac99fba5a6d22975aa951e24831fedb1428ef250f3e583582622210c5567084
     name: amazon-app
     type: application
     urls:
     - https://ht17d97.github.io/helm-repo/amazon-app-0.1.0.tgz
     version: 0.1.0
-generated: "2025-07-04T13:23:15.733328226+05:30"
+generated: "2025-07-04T13:34:35.272123484+05:30"
